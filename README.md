@@ -1,4 +1,4 @@
-# EntAI
+# EnterGenAI
 **The Future of Enterprise AI: From Experimentation to Business Impact**  
 
 <picture>
