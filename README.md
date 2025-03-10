@@ -2,7 +2,7 @@
 The Future of Enterprise AI: From Experimentation to Business Impact
 
 <picture>
-  <img alt="The Future of Enterprise AI" src="https://www.unqork.com/wp-content/uploads/2024/11/iStock-1976099664.jpg">
+  <img alt="The Future of Enterprise AI" src="https://www.unqork.com/wp-content/uploads/2024/11/iStock-1976099664.jpg" height="300">
 </picture>
 
 Enterprise AI has evolved beyond the hype cycle and is now a strategic necessity. Organizations are no longer just experimenting with AI—they are integrating it into critical business functions to drive efficiency, improve decision-making, and create new revenue streams. However, with this evolution comes a new set of challenges: scaling AI, managing AI infrastructure, and ensuring governance and compliance.
